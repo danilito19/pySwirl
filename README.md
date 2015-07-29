@@ -7,7 +7,7 @@
 ### [http://swirlstats.com](http://swirlstats.com)
  -->
 
-Modeleted after [swirl](https://github.com/danilito19/pySwirl), pySwirl is a Python 2.7 library to learn Python and statistics in the command-line.
+Modeleted after [swirl](https://github.com/swirldev/swirl), pySwirl is a Python 2.7 package to learn Python and statistics in the command-line.
 
 ## Goals
 
@@ -24,6 +24,13 @@ Modeleted after [swirl](https://github.com/danilito19/pySwirl), pySwirl is a Pyt
 
 ### Installing pySwirl
 
+To install pySwirl, first make sure you have [pip](https://pip.pypa.io/en/latest/installing.html) installed. Once you have pip, type the following in the command-line
+
+```
+pip install pySwirl
+```
+
+Note:  you may wish to set up a virtualenv 
 
 ## Contributing to pySwirl's development
 
