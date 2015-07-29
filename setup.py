@@ -16,8 +16,10 @@ setup(name='pySwirl',
       license='MIT',
       packages=['pySwirl'],
       #specify which packages we need to install as dependencies
-      install_requires=[
-          'markdown',
-      ],
+      # install_requires=[
+      #     'markdown',
+      # ],
+      test_suite='nose.collector',
+      tests_require=['nose'],
       zip_safe=False)
 

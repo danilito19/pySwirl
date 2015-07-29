@@ -20,7 +20,8 @@ Installing Python, virtualenv, etc
 Installing pySwirl
 -------- 
 
-To install pySwirl, first make sure you have [pip](https://pip.pypa.io/en/latest/installing.html) installed. Once you have pip, type the following in the command-line::
+To install pySwirl, first make sure you have `pip 
+<https://pip.pypa.io/en/latest/installing.htm/>`_ installed. Once you have pip, type the following in the command-line::
 
 	pip install pySwirl
 
