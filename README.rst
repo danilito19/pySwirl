@@ -3,7 +3,7 @@ pySwirl
 ===== 
 
 
-Modeled after [swirl](https://github.com/swirldev/swirl), pySwirl is a Python 2.7 package to learn Python and statistics in the command-line.
+Modeled after [swirl](https://github.com/swirldev/swirl), pySwirl is a Python package to learn Python and statistics in the command-line. This package can be helpful to those already familiar with swirl in R and to Python beginners. 
 
 Goals
 -------- 
